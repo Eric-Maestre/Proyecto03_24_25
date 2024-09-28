@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/Scenes/Puzzle1Prototype.umap"
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/Scenes/Puzzle1Prototype.umap",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/PuzzleObjects/PatronCubeMaterial.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/PuzzleObjects/PatronCube.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AI/6YLFZ8MU7MJUYLKJFC7W49.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4B/SLXFK3SWPDDHAVPAC4CZK1.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L0/VQIFAIS6F8LUY5DWGGVGP9.uasset"
 			]
 		}
 	]
