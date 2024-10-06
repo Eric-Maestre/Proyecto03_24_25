@@ -18168,3 +18168,6 @@ You can not unload a level you are currently editing.
 [2024.10.06-21.58.10:312][100]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2024.10.06-21.58.10:312][100]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.10.06-21.58.10:312][100]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.10.06-21.58.10:634][100]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.06-21.58.10:675][100]LogExit: Exiting.
+[2024.10.06-21.58.10:684][100]Log file closed, 10/06/24 23:58:10
