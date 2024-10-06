@@ -1375,3 +1375,261 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.06-12.56.57:569][936]MaterialEditorStats: Texture samplers: 5/16
 [2024.10.06-12.56.57:569][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2024.10.06-12.56.57:569][936]MaterialEditorStats: Shader Count: 16
+[2024.10.06-13.05.35:421][933]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-13.05.35:457][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.10.06-13.05.37:419][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.06-13.05.37:423][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-13.05.37:514][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorButton" FILE="../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset" SILENT=true
+[2024.10.06-13.05.37:521][151]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton
+[2024.10.06-13.05.37:522][151]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButtonEE8B562A4433E584C8943E84AA724FD7.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset'
+[2024.10.06-13.05.37:527][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.75 sec)
+[2024.10.06-13.05.37:533][151]AssetCheck: New page: Asset Save: BP_ColorButton
+[2024.10.06-13.05.37:534][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton
+[2024.10.06-13.07.55:140][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.06-13.07.55:142][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Section1Level1' took 0.022
+[2024.10.06-13.07.55:142][643]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.06-13.07.55:188][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton]
+[2024.10.06-13.07.55:188][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.06-13.07.55:195][643]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ColorButton_Auto3
+[2024.10.06-13.07.55:195][643]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton_Auto354BF824C47EFD979BD851CA09D4AA3B9.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/Autosaves/Game/Blueprints/BP_ColorButton_Auto3.uasset'
+[2024.10.06-13.07.55:196][643]LogFileHelpers: Auto-saving content packages took 0.054
+[2024.10.06-13.16.59:198][970]LogDerivedDataCache: C:/Users/conno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.019 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3542 files in 4905 folders with total size 718 MiB.
+[2024.10.06-13.17.55:636][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.10.06-13.17.55:639][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Section1Level1' took 0.025
+[2024.10.06-13.17.55:639][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.06-13.17.55:688][139]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton]
+[2024.10.06-13.17.55:688][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.06-13.17.55:695][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ColorButton_Auto4
+[2024.10.06-13.17.55:695][139]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton_Auto40EBE2C5A4EDA7623890E5CAD082A48C3.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/Autosaves/Game/Blueprints/BP_ColorButton_Auto4.uasset'
+[2024.10.06-13.17.55:700][139]LogFileHelpers: Auto-saving content packages took 0.062
+[2024.10.06-13.46.21:495][257]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.06-13.46.21:496][257]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.06-14.14.42:419][359]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.06-14.16.58:328][766]LogDerivedDataCache: C:/Users/conno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.148 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3542 files in 4905 folders with total size 718 MiB.
+[2024.10.06-14.26.54:468][ 64]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-14.26.54:504][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.10.06-14.26.58:023][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.06-14.26.58:027][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-14.26.58:126][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorButton" FILE="../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset" SILENT=true
+[2024.10.06-14.26.58:134][470]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton
+[2024.10.06-14.26.58:135][470]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton0BF6DA624D1FA84AF33558B926C5BB10.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset'
+[2024.10.06-14.26.58:142][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.86 sec)
+[2024.10.06-14.26.58:152][470]AssetCheck: New page: Asset Save: BP_ColorButton
+[2024.10.06-14.26.58:152][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton
+[2024.10.06-14.27.22:548][339]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-14.27.22:584][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.06-14.27.24:271][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.06-14.27.24:276][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.06-14.27.24:365][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorButton" FILE="../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset" SILENT=true
+[2024.10.06-14.27.24:372][529]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton
+[2024.10.06-14.27.24:372][529]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton20B343914430247AAF6F1B96440FD07B.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset'
+[2024.10.06-14.27.24:379][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.97 sec)
+[2024.10.06-14.27.24:384][529]AssetCheck: New page: Asset Save: BP_ColorButton
+[2024.10.06-14.27.24:384][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton
+[2024.10.06-14.28.03:259][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.06-14.28.03:262][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Section1Level1' took 0.022
+[2024.10.06-14.28.03:263][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.06-14.28.03:263][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.06-14.28.03:270][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ColorButton_Auto5
+[2024.10.06-14.28.03:270][319]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton_Auto566ECE2FC49908025E2BAD7B4403C8522.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/Autosaves/Game/Blueprints/BP_ColorButton_Auto5.uasset'
+[2024.10.06-14.28.03:271][319]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.10.06-14.29.21:489][302]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-14.29.21:523][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.06-14.38.03:907][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.06-14.38.03:910][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Section1Level1' took 0.024
+[2024.10.06-14.38.03:910][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.06-14.38.03:957][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton]
+[2024.10.06-14.38.03:957][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.06-14.38.03:965][875]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ColorButton_Auto6
+[2024.10.06-14.38.03:965][875]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton_Auto6D442D5A247435064384B4588D465200B.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/Autosaves/Game/Blueprints/BP_ColorButton_Auto6.uasset'
+[2024.10.06-14.38.03:966][875]LogFileHelpers: Auto-saving content packages took 0.056
+[2024.10.06-15.16.58:331][878]LogDerivedDataCache: C:/Users/conno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3542 files in 4905 folders with total size 718 MiB.
+[2024.10.06-16.16.58:334][676]LogDerivedDataCache: C:/Users/conno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3542 files in 4905 folders with total size 718 MiB.
+[2024.10.06-17.16.58:339][474]LogDerivedDataCache: C:/Users/conno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3542 files in 4905 folders with total size 718 MiB.
+[2024.10.06-17.45.58:002][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.06-17.45.58:004][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Section1Level1' took 0.023
+[2024.10.06-17.45.58:004][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.06-17.45.58:051][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ColorButton.BP_ColorButton]
+[2024.10.06-17.45.58:051][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.06-17.45.58:060][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_ColorButton_Auto7
+[2024.10.06-17.45.58:060][311]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton_Auto7F55F73594CFD2A73D7EB06A41FF93237.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/Autosaves/Game/Blueprints/BP_ColorButton_Auto7.uasset'
+[2024.10.06-17.45.58:061][311]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.10.06-17.48.22:212][984]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-17.48.22:249][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.06-17.48.36:287][332]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.06-17.48.36:299][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.06-17.48.36:300][332]LogPlayLevel: [PlayLevel] Compiling Section1Level1 before play...
+[2024.10.06-17.48.36:343][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.06-17.48.36:346][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2024.10.06-17.48.36:347][332]PIE: New page: PIE session: Section1Level1 (6 oct. 2024 21:48:36)
+[2024.10.06-17.48.36:357][332]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.06-17.48.36:357][332]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.06-17.48.36:358][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.48.36:364][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006077s)
+[2024.10.06-17.48.36:364][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Section1Level1.Section1Level1 to /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 (0.006217s)
+[2024.10.06-17.48.36:364][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.06-17.48.36:365][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.06-17.48.36:365][332]LogAIModule: Creating AISystem for world Section1Level1
+[2024.10.06-17.48.36:366][332]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2024.10.06-17.48.36:385][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.06-17.48.36:388][332]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-17.48.36:388][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-17.48.36:388][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-17.48.36:388][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-17.48.36:388][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-17.48.36:388][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-17.48.36:389][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-17.48.36:413][332]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.10.06-17.48.36:414][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-17.48.36:414][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-17.48.36:414][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-17.48.36:415][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.06-17.48.36:415][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.06-17.48.36:416][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.06-17.48.36:416][332]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.06-17.48.36:416][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.06-17.48.36:416][332]LogAudio: Display: Audio Device (ID: 2) registered with world 'Section1Level1'.
+[2024.10.06-17.48.36:416][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.06-17.48.36:462][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.48.36:463][332]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.06-17.48.36:466][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 up for play (max tick rate 0) at 2024.10.06-19.48.36
+[2024.10.06-17.48.36:468][332]LogWorld: Bringing up level for play took: 0.003632
+[2024.10.06-17.48.36:470][332]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.10.06-17.48.36:473][332]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.06-17.48.36:533][332]PIE: Server logged in
+[2024.10.06-17.48.36:535][332]PIE: Play in editor total start time 0,238 seconds.
+[2024.10.06-17.48.36:562][332]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.06-17.48.39:061][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.48.39:061][586]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.48.39:062][586]LogSlate: Window 'Proyecto_03 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.06-17.48.39:067][586]LogWorld: UWorld::CleanupWorld for Section1Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-17.48.39:068][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.48.39:070][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-17.48.39:075][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.48.39:096][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.06-17.48.39:096][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.06-17.48.39:098][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.06-17.48.39:107][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.06-17.48.39:122][587]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.10.06-17.48.48:568][665]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.06-17.48.48:574][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-17.48.48:575][665]PIE: New page: PIE session: Section1Level1 (6 oct. 2024 21:48:48)
+[2024.10.06-17.48.48:575][665]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.48.48:580][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005219s)
+[2024.10.06-17.48.48:580][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Section1Level1.Section1Level1 to /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 (0.005251s)
+[2024.10.06-17.48.48:580][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.06-17.48.48:580][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.06-17.48.48:580][665]LogAIModule: Creating AISystem for world Section1Level1
+[2024.10.06-17.48.48:580][665]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2024.10.06-17.48.48:600][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.06-17.48.48:602][665]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-17.48.48:602][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-17.48.48:602][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-17.48.48:602][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-17.48.48:602][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-17.48.48:602][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-17.48.48:604][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-17.48.48:626][665]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.10.06-17.48.48:626][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-17.48.48:626][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-17.48.48:626][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-17.48.48:628][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.06-17.48.48:628][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.06-17.48.48:629][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.06-17.48.48:629][665]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.06-17.48.48:629][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.06-17.48.48:629][665]LogAudio: Display: Audio Device (ID: 3) registered with world 'Section1Level1'.
+[2024.10.06-17.48.48:629][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.06-17.48.48:678][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.48.48:678][665]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.06-17.48.48:680][665]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 up for play (max tick rate 0) at 2024.10.06-19.48.48
+[2024.10.06-17.48.48:680][665]LogWorld: Bringing up level for play took: 0.002377
+[2024.10.06-17.48.48:682][665]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.10.06-17.48.48:701][665]PIE: Server logged in
+[2024.10.06-17.48.48:703][665]PIE: Play in editor total start time 0,129 seconds.
+[2024.10.06-17.48.48:737][665]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.06-17.48.53:579][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.48.53:579][228]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.48.53:579][228]LogSlate: Window 'Proyecto_03 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.06-17.48.53:584][228]LogWorld: UWorld::CleanupWorld for Section1Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-17.48.53:584][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.48.53:587][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-17.48.53:591][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.48.53:610][228]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.06-17.48.53:611][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.06-17.48.53:613][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.06-17.48.53:619][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.10.06-17.48.53:643][229]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.10.06-17.49.41:825][642]BlueprintLog: New page: Compile BP_ColorButton
+[2024.10.06-17.49.41:863][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.06-17.49.44:794][983]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.06-17.49.44:799][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.06-17.49.44:799][983]PIE: New page: PIE session: Section1Level1 (6 oct. 2024 21:49:44)
+[2024.10.06-17.49.44:799][983]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.49.44:804][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004990s)
+[2024.10.06-17.49.44:804][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Section1Level1.Section1Level1 to /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 (0.005021s)
+[2024.10.06-17.49.44:804][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.06-17.49.44:804][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.06-17.49.44:804][983]LogAIModule: Creating AISystem for world Section1Level1
+[2024.10.06-17.49.44:805][983]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2024.10.06-17.49.44:824][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.06-17.49.44:828][983]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.06-17.49.44:828][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.06-17.49.44:828][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.06-17.49.44:828][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.06-17.49.44:828][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.06-17.49.44:828][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.06-17.49.44:830][983]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.06-17.49.44:853][983]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.10.06-17.49.44:854][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.06-17.49.44:854][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.06-17.49.44:854][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.06-17.49.44:854][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.06-17.49.44:854][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.06-17.49.44:855][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.06-17.49.44:855][983]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.06-17.49.44:855][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.06-17.49.44:855][983]LogAudio: Display: Audio Device (ID: 4) registered with world 'Section1Level1'.
+[2024.10.06-17.49.44:855][983]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.06-17.49.44:912][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.49.44:912][983]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.06-17.49.44:914][983]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 up for play (max tick rate 0) at 2024.10.06-19.49.44
+[2024.10.06-17.49.44:914][983]LogWorld: Bringing up level for play took: 0.002518
+[2024.10.06-17.49.44:916][983]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.10.06-17.49.44:916][983]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.06-17.49.44:924][983]PIE: Server logged in
+[2024.10.06-17.49.44:925][983]PIE: Play in editor total start time 0,126 seconds.
+[2024.10.06-17.49.44:934][983]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.06-17.49.49:606][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.06-17.49.49:606][502]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.06-17.49.49:607][502]LogSlate: Window 'Proyecto_03 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.06-17.49.49:611][502]LogWorld: UWorld::CleanupWorld for Section1Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.06-17.49.49:612][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.49.49:614][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.06-17.49.49:619][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.06-17.49.49:640][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.06-17.49.49:640][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.06-17.49.49:641][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.06-17.49.49:642][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.06-17.49.49:649][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.10.06-17.49.49:693][503]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.06-17.50.30:464][ 76]LogViewport: Scene viewport resized to 1717x840, mode Windowed.
+[2024.10.06-17.50.34:971][559]LogSlate: Window 'Event Graph' being destroyed
