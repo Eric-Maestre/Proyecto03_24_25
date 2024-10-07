@@ -1250,3 +1250,178 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.07-20.20.39:071][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.10.07-20.20.39:082][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
 [2024.10.07-20.20.39:340][826]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.10.07-20.23.45:841][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.23.46:803][644]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.07-20.23.46:808][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.23.46:808][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.07-20.23.47:102][645]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.23.47:163][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.24.42:181][268]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.07-20.24.42:243][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.07-20.24.45:113][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.10.07-20.24.45:117][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.07-20.24.45:172][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.24.45:281][592]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.07-20.24.45:282][592]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ThirdPersonCharacter3BB77D5D4E1B0E2551689A9106DE9F43.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.07-20.24.45:290][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 446 ms)
+[2024.10.07-20.24.45:297][592]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.10.07-20.24.45:297][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.07-20.25.05:139][849]BlueprintLog: New page: Compile WB_Death
+[2024.10.07-20.25.05:178][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.07-20.25.07:129][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.07-20.25.07:132][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.07-20.25.07:191][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Death" FILE="../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Death.uasset" SILENT=true
+[2024.10.07-20.25.07:196][ 50]LogSavePackage: Moving output files for package: /Game/UI/WB_Death
+[2024.10.07-20.25.07:197][ 50]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/WB_DeathC921D29B4CA4E1C698E09A9567EB4F01.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Death.uasset'
+[2024.10.07-20.25.07:204][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 518 ms)
+[2024.10.07-20.25.07:208][ 50]AssetCheck: New page: Asset Save: WB_Death
+[2024.10.07-20.25.07:208][ 50]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Death.WB_Death
+[2024.10.07-20.25.16:339][109]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Timer.WB_Timer
+[2024.10.07-20.25.16:339][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.25.16:339][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.07-20.25.16:346][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.25.16:346][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.07-20.25.32:655][ 17]BlueprintLog: New page: Compile WB_Timer
+[2024.10.07-20.25.32:690][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.10.07-20.25.34:872][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.07-20.25.34:875][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.07-20.25.34:926][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Timer" FILE="../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Timer.uasset" SILENT=true
+[2024.10.07-20.25.34:934][250]LogSavePackage: Moving output files for package: /Game/UI/WB_Timer
+[2024.10.07-20.25.34:935][250]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/WB_Timer5154E5CD4DDD11E5DFEB6FAB42C14655.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Timer.uasset'
+[2024.10.07-20.25.34:942][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 585 ms)
+[2024.10.07-20.25.34:947][250]AssetCheck: New page: Asset Save: WB_Timer
+[2024.10.07-20.25.34:947][250]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Timer.WB_Timer
+[2024.10.07-20.25.35:498][314]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.07-20.25.35:503][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-20.25.35:504][314]PIE: New page: PIE session: Section1Level1 (8 oct. 2024 0:25:35)
+[2024.10.07-20.25.35:504][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.07-20.25.35:509][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005079s)
+[2024.10.07-20.25.35:509][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Section1Level1.Section1Level1 to /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 (0.005109s)
+[2024.10.07-20.25.35:509][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.25.35:509][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.07-20.25.35:509][314]LogAIModule: Creating AISystem for world Section1Level1
+[2024.10.07-20.25.35:509][314]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2024.10.07-20.25.35:526][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.10.07-20.25.35:528][314]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.07-20.25.35:528][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.07-20.25.35:528][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-20.25.35:529][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-20.25.35:529][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-20.25.35:529][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-20.25.35:531][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.07-20.25.35:553][314]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.10.07-20.25.35:553][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-20.25.35:553][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-20.25.35:553][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-20.25.35:554][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.07-20.25.35:554][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.07-20.25.35:555][314]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.07-20.25.35:555][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.07-20.25.35:555][314]LogAudio: Display: Audio Device (ID: 3) registered with world 'Section1Level1'.
+[2024.10.07-20.25.35:555][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.07-20.25.35:555][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.07-20.25.35:606][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-20.25.35:606][314]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.07-20.25.35:608][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 up for play (max tick rate 0) at 2024.10.07-22.25.35
+[2024.10.07-20.25.35:609][314]LogWorld: Bringing up level for play took: 0.002471
+[2024.10.07-20.25.35:610][314]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.10.07-20.25.35:610][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.07-20.25.35:618][314]PIE: Server logged in
+[2024.10.07-20.25.35:618][314]PIE: Play in editor total start time 0,116 seconds.
+[2024.10.07-20.25.35:627][314]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.07-20.25.40:633][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-20.25.40:633][756]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.07-20.25.40:633][756]LogSlate: Window 'Proyecto_03 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.07-20.25.40:638][756]LogWorld: UWorld::CleanupWorld for Section1Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.25.40:639][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.25.40:641][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-20.25.40:646][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.25.40:667][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-20.25.40:667][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.07-20.25.40:667][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.07-20.25.40:669][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.07-20.25.40:676][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.07-20.25.40:714][760]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.10.07-20.25.59:679][943]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.07-20.25.59:748][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.07-20.26.00:955][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.10.07-20.26.00:959][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.07-20.26.01:093][ 68]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.07-20.26.01:094][ 68]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ThirdPersonCharacterCA397E0843A34CFB869633877B237620.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.07-20.26.01:100][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 726 ms)
+[2024.10.07-20.26.01:106][ 68]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.10.07-20.26.01:106][ 68]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.07-20.26.01:899][162]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.10.07-20.26.01:905][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-20.26.01:905][162]PIE: New page: PIE session: Section1Level1 (8 oct. 2024 0:26:01)
+[2024.10.07-20.26.01:905][162]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.07-20.26.01:910][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004996s)
+[2024.10.07-20.26.01:910][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Section1Level1.Section1Level1 to /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 (0.005026s)
+[2024.10.07-20.26.01:910][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.07-20.26.01:910][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.07-20.26.01:911][162]LogAIModule: Creating AISystem for world Section1Level1
+[2024.10.07-20.26.01:911][162]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2024.10.07-20.26.01:930][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.07-20.26.01:931][162]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.07-20.26.01:931][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.07-20.26.01:931][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-20.26.01:932][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-20.26.01:932][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-20.26.01:932][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-20.26.01:934][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.07-20.26.01:956][162]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.10.07-20.26.01:956][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-20.26.01:956][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-20.26.01:956][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-20.26.01:957][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.07-20.26.01:957][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.07-20.26.01:958][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.07-20.26.01:958][162]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.07-20.26.01:958][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.07-20.26.01:958][162]LogAudio: Display: Audio Device (ID: 4) registered with world 'Section1Level1'.
+[2024.10.07-20.26.01:958][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.07-20.26.02:008][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-20.26.02:008][162]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.07-20.26.02:011][162]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Section1Level1.Section1Level1 up for play (max tick rate 0) at 2024.10.07-22.26.02
+[2024.10.07-20.26.02:011][162]LogWorld: Bringing up level for play took: 0.003099
+[2024.10.07-20.26.02:014][162]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.10.07-20.26.02:014][162]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.07-20.26.02:023][162]PIE: Server logged in
+[2024.10.07-20.26.02:025][162]PIE: Play in editor total start time 0,121 seconds.
+[2024.10.07-20.26.02:033][162]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.10.07-20.26.04:607][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-20.26.04:607][434]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Section1Level1
+[2024.10.07-20.26.04:608][434]LogSlate: Window 'Proyecto_03 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.10.07-20.26.04:612][434]LogWorld: UWorld::CleanupWorld for Section1Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.26.04:613][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.26.04:616][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-20.26.04:621][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.26.04:639][434]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.07-20.26.04:639][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.07-20.26.04:640][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.07-20.26.04:646][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.07-20.26.04:674][436]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.07-20.26.06:239][623]LogEditorTransaction: Undo Move Node
+[2024.10.07-20.26.06:518][627]LogEditorTransaction: Undo Create Pin Link
+[2024.10.07-20.26.07:026][658]LogEditorTransaction: Undo Add Node
+[2024.10.07-20.26.09:782][969]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.07-20.26.09:854][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.07-20.26.11:077][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.07-20.26.11:081][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.07-20.26.11:220][ 95]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.10.07-20.26.11:221][ 95]LogSavePackage: Moving '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Saved/BP_ThirdPersonCharacter6EF1BB7B44E166586A3FA9B06CA09150.tmp' to '../../../../../../../Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.10.07-20.26.11:228][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 873 ms)
+[2024.10.07-20.26.11:234][ 95]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.10.07-20.26.11:234][ 95]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
