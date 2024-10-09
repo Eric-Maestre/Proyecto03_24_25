@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Levels/Level2.umap",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton2.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton3.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton4.uasset",
 				"C:/Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Timer.uasset",
 				"C:/Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/conno/OneDrive/Escritorio/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Death.uasset",
