@@ -12,7 +12,14 @@
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Props/SM_Stairs.uasset",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/DoorBlueprint.uasset",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CubeRoomPuzzle/PushableCube.uasset",
-				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonMaterialBlue1.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonMaterialPink.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonMaterialGreen1.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonMaterialYellow.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonMaterialCyan.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorTarget.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/FloorTilesPuzzle/PanelsFloor.uasset"
 			]
 		}
 	]
