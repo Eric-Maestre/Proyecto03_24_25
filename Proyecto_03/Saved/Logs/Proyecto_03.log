@@ -2146,3 +2146,45 @@ Make sure 'BP_ColorButton3_C' has been compiled for  Change Color
 [2024.10.17-07.48.11:135][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.10.17-07.48.11:140][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2024.10.17-07.48.11:184][863]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.10.17-07.48.51:078][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.17-07.48.51:082][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.17-07.48.51:116][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ColorButton] ([2] browsable assets)...
+[2024.10.17-07.48.51:116][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton]
+[2024.10.17-07.48.51:116][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorButton" FILE="../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset" SILENT=true
+[2024.10.17-07.48.51:124][651]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton
+[2024.10.17-07.48.51:124][651]LogSavePackage: Moving '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton59EDEC7F4493E43A0264038B1D52673F.tmp' to '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset'
+[2024.10.17-07.48.51:130][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.102 ms (total: 1.16 sec)
+[2024.10.17-07.48.51:182][651]LogContentValidation: Display: Starting to validate 1 assets
+[2024.10.17-07.48.51:182][651]LogContentValidation: Enabled validators:
+[2024.10.17-07.48.51:182][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.17-07.48.51:182][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.17-07.48.51:182][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.17-07.48.51:182][651]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ColorButton.BP_ColorButton
+[2024.10.17-07.48.51:182][651]AssetCheck: /Game/Blueprints/BP_ColorButton Validating asset
+[2024.10.17-07.49.17:898][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.17-07.49.17:902][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.17-07.49.17:933][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ColorButton2] ([2] browsable assets)...
+[2024.10.17-07.49.17:933][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton2]
+[2024.10.17-07.49.17:939][609]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton2
+[2024.10.17-07.49.17:940][609]LogSavePackage: Moving '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton2F8266C8D44204EF5080DFBAD7E32F5E6.tmp' to '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton2.uasset'
+[2024.10.17-07.49.17:941][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_ColorButton3] ([2] browsable assets)...
+[2024.10.17-07.49.17:941][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton3]
+[2024.10.17-07.49.17:947][609]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton3
+[2024.10.17-07.49.17:948][609]LogSavePackage: Moving '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton3100449C5465070CBC1713BBBE444A48B.tmp' to '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton3.uasset'
+[2024.10.17-07.49.17:949][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_ColorButton4] ([2] browsable assets)...
+[2024.10.17-07.49.18:013][609]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_ColorButton4.BP_ColorButton4]
+[2024.10.17-07.49.18:013][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_ColorButton4]
+[2024.10.17-07.49.18:020][609]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorButton4
+[2024.10.17-07.49.18:021][609]LogSavePackage: Moving '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Saved/BP_ColorButton4FBD0ED8E4AC2C8F070A84EBC69CCF1FE.tmp' to '../../../../../../Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton4.uasset'
+[2024.10.17-07.49.18:026][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.441 ms (total: 1.28 sec)
+[2024.10.17-07.49.18:065][609]LogContentValidation: Display: Starting to validate 3 assets
+[2024.10.17-07.49.18:065][609]LogContentValidation: Enabled validators:
+[2024.10.17-07.49.18:065][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.10.17-07.49.18:065][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.10.17-07.49.18:065][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.10.17-07.49.18:065][609]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ColorButton2.BP_ColorButton2
+[2024.10.17-07.49.18:065][609]AssetCheck: /Game/Blueprints/BP_ColorButton2 Validating asset
+[2024.10.17-07.49.18:065][609]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ColorButton3.BP_ColorButton3
+[2024.10.17-07.49.18:065][609]AssetCheck: /Game/Blueprints/BP_ColorButton3 Validating asset
+[2024.10.17-07.49.18:065][609]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_ColorButton4.BP_ColorButton4
+[2024.10.17-07.49.18:065][609]AssetCheck: /Game/Blueprints/BP_ColorButton4 Validating asset
