@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/Levels/Section1.umap",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Timer.uasset",
@@ -22,6 +23,21 @@
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/260px-Rgb.uasset",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonDoor.uasset",
 				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeDoorBlueprint.uasset",
+=======
+<<<<<<< Updated upstream
+=======
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Death.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Timer.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/UI/WB_Victory.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton4.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton2.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton3.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Blueprints/BP_ColorButton.uasset",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/Levels/Section1.umap",
+				"C:/Users/ConnorGergerGrifoll/Desktop/Proyecto03_24_25/Proyecto_03/Content/CubeRoomPuzzle/PushableCube.uasset",
+>>>>>>> Stashed changes
+>>>>>>> origin/develop
 				"C:/Users/EricMaestrePozo/Documents/GitHub/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/EricMaestrePozo/Documents/GitHub/Proyecto03_24_25/Proyecto_03/Content/CodePuzzle/CodeButtonDoor.uasset",
 				"C:/Users/EricMaestrePozo/Documents/GitHub/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Props/SM_Stairs.uasset",
