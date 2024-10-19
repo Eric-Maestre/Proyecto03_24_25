@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ericm/source/repos/Proyecto03_24_25/Proyecto_03/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
 	]
